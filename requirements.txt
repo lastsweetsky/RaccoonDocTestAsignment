@@ -1,0 +1,5 @@
+opencv-python==4.8.0.76
+Pillow==8.2.0
+scikit-learn==1.3.0
+tensorflow==2.13.0
+jupyter==1.0.0
